@@ -1,2 +1,5 @@
-# BCS-Secy-Recruitment-Task
-This is a repository for the submission of the AI/ML recruitment task of BCS (Brain and Cognitive Society, IITK)
+# Neural-Network-From-Scratch
+
+We try to implement a Deep Neural Network with one hidden layer to be trained on the ![fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) dataset.
+
+We don't use **any** framework, rather only **numpy** to implement the *Neural Network From Scratch*.
